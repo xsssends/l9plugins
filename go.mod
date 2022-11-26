@@ -1,4 +1,4 @@
-module github.com/xsssends/l9plugins
+module github.com/LeakIX/l9plugins
 
 go 1.11
 
@@ -25,3 +25,5 @@ require (
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
 	gopkg.in/ini.v1 v1.62.0
 )
+
+replace github.com/LeakIX/l9plugins v1.4.4 => github.com/xsssends/l9plugins v1.4.6
