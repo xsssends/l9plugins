@@ -149,7 +149,6 @@ var passwords = []string{
 	"`1234567890-=",
 	"1234567890-=",
 	"!@#$%^&*()_+",
-	"~!@#$%^&*()_+",
 }
 
 func (plugin MysqlWeakPlugin) Init() error {
