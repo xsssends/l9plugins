@@ -1,4 +1,4 @@
-module github.com/LeakIX/l9plugins
+module github.com/xsssends/l9plugins
 
 go 1.11
 
