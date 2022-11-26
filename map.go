@@ -2,8 +2,8 @@ package l9plugins
 
 import (
 	"github.com/LeakIX/l9format"
-	"github.com/LeakIX/l9plugins/tcp"
-	"github.com/LeakIX/l9plugins/web"
+	"github.com/xsssends/l9plugins/tcp"
+	"github.com/xsssends/l9plugins/web"
 )
 
 var tcpPlugins = []l9format.ServicePluginInterface{
